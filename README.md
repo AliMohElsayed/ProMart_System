@@ -29,11 +29,15 @@ Built with Odoo, integrated with machine learning, and powered by semantic searc
 
 ### **1️⃣ AI Modules**
 
-📌 **Platform** -	Built with Prophet (Meta) to model trends, seasonality, and holidays.  
+📌 **Platform** -	Built with Prophet (Meta) to model trends, seasonality, and holidays. 
+
 📌 **Recommendation** - 	SVD-based matrix factorization using the Surprise library.  
-📌 **Sentiment Analysis	** - Uses nlptown/bert-base-multilingual-uncased-sentiment (via HuggingFace).
+
+📌 **Sentiment Analysis** - Uses nlptown/bert-base-multilingual-uncased-sentiment (via HuggingFace).
+
 📌 **Chatbot** - LLM-powered assistant with Gemini Flash 1.5, integrated via RAG.  
-📌 **Semantic Search	** - Embedding-based retrieval using all-MiniLM-L6-v2 and ChromaDB. 
+
+📌 **Semantic Search** - Embedding-based retrieval using all-MiniLM-L6-v2 and ChromaDB. 
 
 ### **2️⃣  ML & NLP Flow**
 
