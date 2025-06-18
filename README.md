@@ -61,14 +61,6 @@ Embeddings stored in ChromaDB for fast lookup
 Continuous improvement via user interaction
 
 
-## 📱 Architecture Diagrams
-![System Architecture](./Archtecture.svg)
-
----
-
-## 📱 Poster to Summarize the Entire Project  
-![System Poster](./Poster.png)
-
 ---
 
 ## 👥 Contributors  
