@@ -23,6 +23,7 @@ Built with Odoo, integrated with machine learning, and powered by semantic searc
 ✅ Scalable Architecture: Ready to grow with your data, traffic, and business needs.
 
 ✅ User-Friendly Admin Tools: Visual dashboards, data insights, and intuitive controls.
+
 ---
 
 ## 🏗 System Architecture
