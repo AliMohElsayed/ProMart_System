@@ -9,12 +9,19 @@ Built with Odoo, integrated with machine learning, and powered by semantic searc
 ## 🚀 Key Features
 
 ✅ Smart Search Engine: Understands user intent using semantic search via MiniLM.
+
 ✅ Personalized Recommendations: Collaborative filtering with SVD (Surprise library).
+
 ✅ Sales Forecasting: Time-series predictions with Prophet to optimize inventory & planning.
+
 ✅ Sentiment Analysis: Understand customer reviews with Multilingual BERT.
+
 ✅ Conversational AI Chatbot: Built using Gemini Flash 1.5 + RAG for real-time support in Arabic & English.
+
 ✅ Odoo Integration: Seamless business logic and data operations for inventory, users, and orders.
+
 ✅ Scalable Architecture: Ready to grow with your data, traffic, and business needs.
+
 ✅ User-Friendly Admin Tools: Visual dashboards, data insights, and intuitive controls.
 ---
 
