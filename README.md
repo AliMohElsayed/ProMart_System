@@ -4,7 +4,7 @@
 
 **ProMart** is our graduation project, is a smart, modular ecosystem built to enhance existing e-commerce platforms — not replace them. Instead of launching another store, ProMart delivers advanced tools, AI plugins, and automation solutions that help online businesses scale, personalize user experience, and make data-driven decisions with ease.
 
-Built with Odoo, integrated with machine learning, and powered by semantic search and recommendation engines, ProMart brings the next generation of e-commerce to life.**.
+Built with Odoo, integrated with machine learning, and powered by semantic search and recommendation engines, ProMart brings the next generation of e-commerce to life.
 
 ## 🚀 Key Features
 
