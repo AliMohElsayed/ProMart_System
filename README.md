@@ -33,6 +33,14 @@ Built with Odoo, integrated with machine learning, and powered by semantic searc
 ### 🎯 5. Aletheia Recommendation Engine
 - Personalized product recommendations using **SVD (Singular Value Decomposition)**
 - Learns from each customer’s purchase history and ratings
+
+### 🎯 6. Odoo
+We integrated ProMart with **Odoo ERP** to take advantage of its robust features:
+- Admin can manage inventory, customers, and products
+- Real-time sales dashboards
+- Seamless integration with our ML models
+- Handles automated emails for sign-up, purchase, and password reset
+
 ---
 
 ## 🏗 System Architecture
