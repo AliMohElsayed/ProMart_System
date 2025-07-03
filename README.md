@@ -8,22 +8,31 @@ Built with Odoo, integrated with machine learning, and powered by semantic searc
 
 ## 🚀 Key Features
 
-✅ Smart Search Engine: Understands user intent using semantic search via MiniLM.
+### 🤖 1. Assel – AI Sales Chatbot
+- Built with **Gemini Flash 1.5**
+- Talks in **Arabic and English**
+- Recommends products using **RAG (Retrieval-Augmented Generation)**
+- Uses **ChromaDB** as a vector store for semantic search
+- Pulls live inventory data from Odoo
 
-✅ Personalized Recommendations: Collaborative filtering with SVD (Surprise library).
+### 💬 2. EchoSent – Sentiment Analysis
+- Fine-tuned **Hugging Face LLM** to support Arabic reviews
+- Predicts customer sentiment (rating from 1 to 5)
+- Can be integrated with future social media monitoring tools
 
-✅ Sales Forecasting: Time-series predictions with Prophet to optimize inventory & planning.
+### 🔍 3. SeekSense – Vector-Based Product Search
+- Replaces traditional keyword search
+- Handles **spelling mistakes and vague queries**
+- Uses **cosine similarity** with vector embeddings
 
-✅ Sentiment Analysis: Understand customer reviews with Multilingual BERT.
+### 📈 4. Seerly – Sales Forecasting
+- Uses **Facebook Prophet** with **grid search optimization**
+- Predicts daily sales based on admin parameters
+- Helps admins make data-driven decisions
 
-✅ Conversational AI Chatbot: Built using Gemini Flash 1.5 + RAG for real-time support in Arabic & English.
-
-✅ Odoo Integration: Seamless business logic and data operations for inventory, users, and orders.
-
-✅ Scalable Architecture: Ready to grow with your data, traffic, and business needs.
-
-✅ User-Friendly Admin Tools: Visual dashboards, data insights, and intuitive controls.
-
+### 🎯 5. Aletheia Recommendation Engine
+- Personalized product recommendations using **SVD (Singular Value Decomposition)**
+- Learns from each customer’s purchase history and ratings
 ---
 
 ## 🏗 System Architecture
