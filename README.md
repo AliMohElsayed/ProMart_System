@@ -98,9 +98,13 @@ Continuous improvement via user interaction
 
 | Name                 
 | -------------------- | ------------------------ |
+
 | **Ali Mohamed**      | **Ahmed Tarfa**          |
+
 | **Marwa Atya**       | **Manar Mohamed**        |
+
 | **Menna Shweel**     | **Doaa Khamis**          |
+
 | **Aya Ahmed**        | **Mayar Mohamed**        |
 
 ---
