@@ -43,6 +43,21 @@ We integrated ProMart with **Odoo ERP** to take advantage of its robust features
 
 ---
 
+## 👤 Roles
+
+### 👨‍💼 Admin:
+- Full control over inventory, product catalog, and customer data
+- View real-time dashboards and forecasts with **Seerly**
+- Analyze customer feedback using **EchoSent**
+
+### 🛍️ Customer:
+- Smart search via **SeekSense**
+- Personalized recommendations via **Aletheia**
+- Real-time AI assistance through **Assel chatbot**
+- Auto email notifications on key actions
+
+---
+
 ## 🏗 System Architecture
 
 ### **1️⃣ AI Modules**
