@@ -96,7 +96,6 @@ Continuous improvement via user interaction
 
 ## 👥 Contributors  
 
-|---------------------|-------------------|
 | **Ali Mohamed**     | **Ahmed Tarfa**   |
 | **Marwa Atya**      | **Manar Mohamed** |
 | **Menna Shweel**    | **Doaa Khamis**   |
