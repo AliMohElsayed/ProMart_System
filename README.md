@@ -96,16 +96,16 @@ Continuous improvement via user interaction
 
 ## 👥 Contributors  
 
-| Name                 | Role                                                       |
-| -------------------- | ---------------------------------------------------------- |
-| **Ali Mohamed**      | Data Scientist - Data Analysist                            |
-| **Ahmed Tarfa**      | ML Engineer                                                |
-| **Marwa Atya**       | Odoo Expert                                                |
-| **Manar Mohamed**    | NLP Specialist                                             |
-| **Menna Shweel**     | Leader - Odoo Expert                                       |
-| **Doaa Khamis**      | Frontend & UX/UI Design                                    |
-| **Aya Ahmed**        | ML Engineer  -  UX/UI Design                               |
-| **Mayar Mohamed**    | Recommender Systems                                        |
+| Name                 | 
+| -------------------- | 
+| **Ali Mohamed**      | 
+| **Ahmed Tarfa**      | 
+| **Marwa Atya**       | 
+| **Manar Mohamed**    | 
+| **Menna Shweel**     | 
+| **Doaa Khamis**      | 
+| **Aya Ahmed**        |
+| **Mayar Mohamed**    |
 
 ---
 
